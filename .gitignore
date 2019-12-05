@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# data folders
+train/
+3DShapeNets/
+3DShapeNetsCode.zip
