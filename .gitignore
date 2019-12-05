@@ -107,3 +107,4 @@ venv.bak/
 train/
 3DShapeNets/
 3DShapeNetsCode.zip
+results/
